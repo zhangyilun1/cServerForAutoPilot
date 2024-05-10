@@ -1,0 +1,5 @@
+DRONE_SERVER_PORT = 32321
+PHP_SERVER_PORT = 2345
+UPGRADE_SERVER_PORT = 32330
+SQLITE_PATH = /Users/zhangyilun/Desktop/socket_connect/feixing.db
+ROLLBACK = 0
